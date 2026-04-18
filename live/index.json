@@ -1,0 +1,23 @@
+{
+  "appstore_url": "https://discord.gg/projectrevenger",
+  "billboard_msg": "servidor offline",
+  "cdn_url": "https://dl.cdn.freefiremobile.com/live/ABHotUpdates/",
+  "code": 0,
+  "client_ip": "0.0.0.0",
+  "country_code": "BR",
+  "force_to_restart_app": false,
+  "gdpr_version": 2,
+  "is_firewall_open": false,
+  "is_review_server": false,
+  "is_server_open": true,
+  "maintenance_announcement": "",
+  "remote_option_version": "1.24.0",
+  "remote_version": "1.24.0",
+  "server_url": "https://jovial-cajeta-3fa470.netlify.app/",
+  "appstore": "googleplay",
+  "device": "android",
+  "lang": "pt-br",
+  "region": "DEFAULT",
+  "version": "1.24.0"
+}
+
