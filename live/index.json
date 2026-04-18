@@ -1,6 +1,6 @@
 {
-  "appstore_url": "https://discord.gg/projectrevenger",
-  "billboard_msg": "servidor offline",
+  "appstore_url": "https://play.google.com/store/apps/details?id=com.dts.freefireth",
+  "billboard_msg": "Servidor Ativo - Versão 1.90.1",
   "cdn_url": "https://dl.cdn.freefiremobile.com/live/ABHotUpdates/",
   "code": 0,
   "client_ip": "0.0.0.0",
@@ -11,13 +11,12 @@
   "is_review_server": false,
   "is_server_open": true,
   "maintenance_announcement": "",
-  "remote_option_version": "1.24.0",
-  "remote_version": "1.24.0",
+  "remote_option_version": "1.90.1",
+  "remote_version": "1.90.1",
   "server_url": "https://jovial-cajeta-3fa470.netlify.app/",
   "appstore": "googleplay",
   "device": "android",
   "lang": "pt-br",
   "region": "DEFAULT",
-  "version": "1.24.0"
+  "version": "1.90.1"
 }
-
